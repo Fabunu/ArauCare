@@ -51,6 +51,7 @@ This canvas illustrates the strategic alignment between ArauCare’s features an
 
 ## 5. Structure
 ### 5.1 Navigation Flow
+<img width="1920" height="1080" alt="Site-Map" src="https://github.com/user-attachments/assets/2354ca8b-88cc-404f-a000-7e2cb9e3a657" />
 
 ## 6. Skeleton
 ### 6.1 Low-Fi Wireframes
