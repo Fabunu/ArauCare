@@ -44,6 +44,8 @@ This canvas illustrates the strategic alignment between ArauCare’s features an
 <img width="1292" height="697" alt="Captura de pantalla de 2026-04-20 13-47-09" src="https://github.com/user-attachments/assets/8b83972e-7443-4017-9247-c4c7eee8e12f" />
 
 ### 3.2 UIX Persona
+<img width="1920" height="1080" alt="UXPersona" src="https://github.com/user-attachments/assets/6618ce66-a530-4f85-840d-f61128ffc846" />
+
 ### 3.3 Benchmarking
 
 ## 4. Scope
