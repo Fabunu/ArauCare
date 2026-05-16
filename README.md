@@ -47,6 +47,11 @@ This canvas illustrates the strategic alignment between ArauCare’s features an
 <img width="1920" height="1080" alt="UXPersona" src="https://github.com/user-attachments/assets/6618ce66-a530-4f85-840d-f61128ffc846" />
 
 ### 3.3 Benchmarking
+In order to obtain a clear strategic and visual reference for ArauCare compared to existing platforms, an in-depth benchmark was carried out to identify main functionalities, design patterns, and current service gaps that could be integrated into our project development. This analysis is specifically framed within the UX Strategy and Scope planes.
+
+For the benchmark presented below (and detailed in the attached PDF documents), three key tools were considered: miRedSalud (Direct Competitor), Mi ChileAtiende (Analogous Competitor), and Google Calendar (Design Reference). Aspects such as visual design, navigation patterns, manual accessibility, and empty states management were analyzed.
+
+Furthermore, domain-specific dimensions critical for our target audience in La Araucanía were evaluated, including caregiver support profiles, interoperability with State databases (FONASA / ClaveÚnica), and preventive alert systems designed to avoid unnecessary trips to the CESFAM for patients with reduced mobility.
 <img width="774" height="434" alt="Captura de pantalla de 2026-05-16 17-33-25" src="https://github.com/user-attachments/assets/8032adc6-ce85-4e6b-af00-0840945ea795" />
 
 ## 4. Scope
