@@ -55,6 +55,8 @@ Furthermore, domain-specific dimensions critical for our target audience in La A
 <img width="774" height="434" alt="Captura de pantalla de 2026-05-16 17-33-25" src="https://github.com/user-attachments/assets/8032adc6-ce85-4e6b-af00-0840945ea795" />
 
 ## 4. Scope
+Based on the benchmark findings, the functionalities and content of the application are determined. The characteristics identified delimit which features will be part of the solution and which were omitted or left out.
+
 ### 4.1 Customer Journey Map
 
 ## 5. Structure
