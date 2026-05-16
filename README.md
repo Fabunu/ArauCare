@@ -47,6 +47,7 @@ This canvas illustrates the strategic alignment between ArauCare’s features an
 <img width="1920" height="1080" alt="UXPersona" src="https://github.com/user-attachments/assets/6618ce66-a530-4f85-840d-f61128ffc846" />
 
 ### 3.3 Benchmarking
+<img width="774" height="434" alt="Captura de pantalla de 2026-05-16 17-33-25" src="https://github.com/user-attachments/assets/8032adc6-ce85-4e6b-af00-0840945ea795" />
 
 ## 4. Scope
 ### 4.1 Customer Journey Map
