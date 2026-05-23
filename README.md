@@ -67,6 +67,8 @@ Based on the benchmark findings, the functionalities and content of the applicat
 ### 6.1 Low-Fi Wireframes
 <img width="440" height="956" alt="Inicio sesión" src="https://github.com/user-attachments/assets/b1b42abd-ed4e-41b2-bc04-6b377aa1b8dc" /> <img width="440" height="956" alt="Home" src="https://github.com/user-attachments/assets/27318728-c356-400c-a2f7-bc57860664c3" /> <img width="440" height="1379" alt="Datos (1)" src="https://github.com/user-attachments/assets/8a6bd3ed-43d7-4b75-946d-a2b7f319c527" /> <img width="440" height="956" alt="Horas y Atenciones" src="https://github.com/user-attachments/assets/34d914bf-3f19-4343-8136-8905055509dc" /> <img width="440" height="1407" alt="Agendar una Hora" src="https://github.com/user-attachments/assets/11d4a426-65fe-4abd-93f6-04ccb93974b0" /> <img width="440" height="956" alt="Movilidad" src="https://github.com/user-attachments/assets/90ce8d57-d932-4fce-a12c-9a6e9485d510" /> <img width="440" height="956" alt="Mis recetas" src="https://github.com/user-attachments/assets/6ac3c452-6c87-4511-b904-3112affe90eb" /> <img width="440" height="956" alt="Farmacia" src="https://github.com/user-attachments/assets/0435cada-a79d-496c-a57a-1b06b3509b68" /> <img width="440" height="956" alt="Movilidad Familiar" src="https://github.com/user-attachments/assets/aee2ab8a-e7fb-471e-be58-40785cfd69f2" /> <img width="440" height="956" alt="Derivaciones" src="https://github.com/user-attachments/assets/69c5b206-02f3-450b-a350-8bfed8f0188b" /> <img width="440" height="956" alt="Mis Examenes" src="https://github.com/user-attachments/assets/09ef54da-4c5c-4370-99b7-44bd838dabb9" />
 
+https://www.figma.com/design/1ZNKzkO1rZazYOjFfHjtcg/Wireframes?node-id=0-1&t=WLB21soTqcvsCmCk-1
+
 
 
 
