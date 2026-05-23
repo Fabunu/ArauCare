@@ -58,6 +58,8 @@ Furthermore, domain-specific dimensions critical for our target audience in La A
 Based on the benchmark findings, the functionalities and content of the application are determined. The characteristics identified delimit which features will be part of the solution and which were omitted or left out.
 
 ### 4.1 Customer Journey Map
+Following the definition of our user profiles (UX Personas) and the platform's value proposition, we structured the Customer Journey Map. This artifact is essential for visualizing the emotional response of rural patients and their caregivers as they navigate the primary healthcare system, ensuring that ArauCare's features align perfectly with their real-time needs during high-stress and physically demanding situations.
+<img width="1304" height="809" alt="Captura de pantalla de 2026-05-23 15-17-48" src="https://github.com/user-attachments/assets/201d7a05-9ced-41c6-828e-b25ae16abf06" />
 
 ## 5. Structure
 ### 5.1 Navigation Flow
