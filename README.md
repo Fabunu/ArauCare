@@ -34,9 +34,9 @@ In the Araucanía Region, access to Family Health Centers (CESFAM - Centros de S
 ArauCare is a comprehensive digital solution designed to restore autonomy to the patient. Through a mobile-friendly web ecosystem, users can manage appointments, view laboratory results in PDF format, and track pharmacy stock in real-time without leaving their homes. The platform includes accessibility features such as caregiver profiles and automated notifications (WhatsApp/Calls), ensuring that technology acts as an inclusive bridge rather than a barrier. By digitalizing these processes, we reduce absenteeism, protect the patient's physical integrity, and optimize the operational capacity of healthcare centers.
 
 ## 2. Team
-* Fidel Barriga 
-* Fabiola Cheuquelaf
-* Marco Contreras
+* Fidel Barriga (Designer)
+* Fabiola Cheuquelaf (Project Manager)
+* Marco Contreras (Analist)
 
 ## 3. Strategy
 ### 3.1 Value Proposition Canvas
