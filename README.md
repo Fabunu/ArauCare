@@ -23,8 +23,7 @@ The platform serves as a vital bridge between primary healthcare centers (CESFAM
     * [6.1. Low-Fi Wireframes](#61-low-fi-wireframes)
 7. [Surface](#7-surface)
     * [7.1. Interface Evolution](#71-interface-evolution)
-    * [7.2. Results of the Heuristic Evaluation](#72-results-of-the-heuristic-evaluation)
-    * [7.3. High Definition Interfaces](#73-high-definition-interfaces)
+    * [7.2. High Definition Interfaces](#72-high-definition-interfaces)
 
 ---
 
@@ -38,6 +37,7 @@ ArauCare is a comprehensive digital solution designed to restore autonomy to the
 * Fidel Barriga 
 * Fabiola Cheuquelaf
 * Marco Contreras
+
 ## 3. Strategy
 ### 3.1 Value Proposition Canvas
 This canvas illustrates the strategic alignment between ArauCare’s features and the specific needs of patients with reduced mobility. By identifying arduous physical displacement, exposure to harsh weather, and the uncertainty of appointment availability as primary pain points, the solution focuses on centralizing healthcare management through a digital-first approach. The value lies in transforming a physically exhausting process—often dependent on third parties and favorable weather—into a transparent, home-based ecosystem. This ensures that appointment scheduling, exam results, and pharmacy stock tracking are just a click away, significantly reducing operational friction for patients, their caregivers, and CESFAM staff in the Araucanía region.
@@ -63,7 +63,10 @@ Following the definition of our user profiles (UX Personas) and the platform's v
 
 ## 5. Structure
 ### 5.1 Navigation Flow
-<img width="1920" height="1080" alt="Site-Map" src="https://github.com/user-attachments/assets/2354ca8b-88cc-404f-a000-7e2cb9e3a657" />
+The main navigation flow begins with Login, a necessary step to validate the user with their unique password and grant them access to the Homepage. From here, the flow branches into five main health service modules: Appointments and Care (where users can view scheduled appointments or request new ones), My Digital Health (to review their medical history, including tests and referrals), Pharmacy and Prescriptions (where users can view prescriptions associated with them and the pharmacy's stock at the CESFAM), Assistance and Mobility (for requesting transportation), and finally, account management in My Profile (where users can view their information and manage caregivers). This design allows access to all necessary functions in a maximum of three clicks.
+
+<img width="1443" height="1080" alt="Collaborate (1)" src="https://github.com/user-attachments/assets/81cc25e8-9c3f-48bb-bd6b-5bf5605711cd" />
+
 
 ## 6. Skeleton
 ### 6.1 Low-Fi Wireframes
@@ -71,20 +74,33 @@ Following the definition of our user profiles (UX Personas) and the platform's v
 
 https://www.figma.com/design/1ZNKzkO1rZazYOjFfHjtcg/Wireframes?node-id=0-1&t=WLB21soTqcvsCmCk-1
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 7. Surface
 ### 7.1 Interface Evolution
-### 7.2 Results of the Heuristic Evaluation
-### 7.3 High Definition Interfaces
+Regarding the modifications made, the main area affected was the "Caregiver" section. The changes were as follows:
+
+The section was renamed from "Family Mobility." This name was found to be potentially confusing with the "Mobility" section, so a clearer and more representative name was chosen.
+
+Initially, the plan was to display family members and caregivers using a simple list with only their names. However, this display was redesigned using user cards, incorporating relevant information for each user along with a representative image, to improve the visual experience and information comprehension.
+
+Furthermore, modifications were also made to the top bar and footer:
+
+The top bar previously contained an icon representing a tutorial for using the corresponding section. This element was discarded because the interface was deemed intuitive enough for users to operate without additional support.
+In the footer, the field indicating the user's associated CESFAM location was removed, as it was determined that this information was unnecessary in this section of the interface.
+
+### 7.2 High Definition Interfaces
+<img width="440" height="956" alt="Inicio sesión" src="https://github.com/user-attachments/assets/a2d4e247-0e93-44ea-addf-566cb8f9dd45" /> <img width="440" height="1070" alt="Home" src="https://github.com/user-attachments/assets/5f33930b-5eff-4742-85ba-8d66c8e516d6" /> <img width="440" height="1419" alt="Mis Datos" src="https://github.com/user-attachments/assets/400bab7d-6d90-40b8-99ae-2a5586dbcb53" /> <img width="440" height="1154" alt="Cuidador" src="https://github.com/user-attachments/assets/d3d4f2f5-5c90-4546-8788-e11e4d07bbb1" /> <img width="440" height="956" alt="Farmacia" src="https://github.com/user-attachments/assets/8d5f66a7-684c-442d-b68b-544ddbe0251c" /> <img width="440" height="956" alt="Mis recetas" src="https://github.com/user-attachments/assets/35dbf6bb-8952-434f-8b35-314db6daca9e" /> <img width="440" height="956" alt="Derivaciones" src="https://github.com/user-attachments/assets/6122faee-6002-4699-96a1-566669cecbc8" /> <img width="440" height="1013" alt="Mis Examenes" src="https://github.com/user-attachments/assets/f7d91ef4-abd6-40e7-9d32-8042b8524fe4" /> <img width="440" height="956" alt="Horas y Atenciones" src="https://github.com/user-attachments/assets/32a570cf-6e3a-4efd-bffc-79c6acd065fc" /> <img width="440" height="1452" alt="Agendar una Hora" src="https://github.com/user-attachments/assets/11a36efa-b4ee-43d3-a29b-889337a857b3" /> <img width="440" height="956" alt="Movilidad" src="https://github.com/user-attachments/assets/4d638202-5183-40ea-8015-b2c6261dc187" />
+
+https://www.figma.com/design/pW9yNVOjkjajGDWZj2HGPA/Wireframes-HD?node-id=0-1&t=Gtvf2eft8P1myDaa-1
+
+
+
+
+
+
+
+
+
+
+
+
+
