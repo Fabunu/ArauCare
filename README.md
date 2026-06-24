@@ -24,6 +24,10 @@ The platform serves as a vital bridge between primary healthcare centers (CESFAM
 7. [Surface](#7-surface)
     * [7.1. Interface Evolution](#71-interface-evolution)
     * [7.2. High Definition Interfaces](#72-high-definition-interfaces)
+8. [Evaluation & Usability](#8-evaluation-&-usability)
+    * [8.1. Feedback Implementation & Interface Refinement](#81-feedback-implementation-&-interface-refinement)
+    * [8.2. Heuristic Evaluation & SUS](#82-heuristic-evaluation-&-sus)
+    * [8.3. Accessibility Themes](#83-accessibility-themes)
 
 ---
 
