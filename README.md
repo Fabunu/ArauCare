@@ -100,19 +100,38 @@ In the footer, the field indicating the user's associated CESFAM location was re
 Based on feedback received during the initial presentation from teaching assistants, classmates, and the professor, the following changes were implemented to improve the high-definition design:
 *   **Complete UI Adjustment:** A complete adjustment of the interfaces was performed to make them look more polished, clean, and professional.
 *   **Actionable Elements:** The option to "Download PDF" for prescriptions and exams was changed from a simple text link to a prominent button, facilitating interaction.
+<img width="310" height="550" alt="Recetas" src="https://github.com/user-attachments/assets/ac55f3f2-f33e-42bf-ad24-453e07bf18b4" />
+<img width="310" height="550" alt="Examenes" src="https://github.com/user-attachments/assets/d1651375-405a-4ae3-a093-2ce6b25fe26f" />
+
 *   **Brand Contrast:** The color of the top *Header* was adjusted to generate greater contrast with the ArauCare institutional logo color.
+<img width="364" height="74" alt="Captura de pantalla de 2026-06-23 23-52-18" src="https://github.com/user-attachments/assets/0082fb61-622f-472b-a1d8-5b358b6bbcc5" />
+
 *   **News Redesign:** A modification was applied to the news section on the homepage so the carousel looks better and is more readable.
+<img width="310" height="550" alt="Home" src="https://github.com/user-attachments/assets/97c7eab6-3a50-419c-b2c5-a606f565c695" />
+
 *   **Scheduling Flow:** The appointment scheduling process was optimized by adjusting the specialist selection and the choice of times and dates to make it more intuitive.
+<img width="310" height="550<img width="432" height="320" alt="Captura de pantalla de 2026-06-24 00-02-51" src="https://github.com/user-attachments/assets/4fc3b65a-2f05-4f02-8feb-1d393517d0af" />
+" alt="Captura de pantalla de 2026-06-23 21-29-36" src="https://github.com/user-attachments/assets/7d441c36-2262-4c29-bfc7-92969ea86694" />
 
 ### 8.2. Heuristic Evaluation & SUS
 the project was subjected to a cross-evaluation using Heuristic Inspection and the *System Usability Scale* (SUS) metric.
 *   **SUS Results:** The system obtained a global score of **61.25 (Marginally Acceptable)**, which allowed us to identify key frictions and iterate quickly.
 *   **Top 5 Critical Problems Resolved:**
     1.  **Lack of feedback when scheduling (Criticality 7.66):** A success confirmation pop-up was added when the user schedules an appointment or updates their data, preventing uncertainty.
+  <img width="441" height="340" alt="Captura de pantalla de 2026-06-24 00-02-00" src="https://github.com/user-attachments/assets/9ebcdc22-eb96-42bb-830e-a215c0186893" />
+  <img width="432" height="320" alt="Captura de pantalla de 2026-06-24 00-02-51" src="https://github.com/user-attachments/assets/175e15bc-0332-4c31-99d8-3f126b497a8e" />
+
     2.  **No logo on login (Criticality 7.00):** The ArauCare logo was added to the login screen so the user always knows which application they are in.
+  <img width="310" height="550" alt="Captura de pantalla de 2026-06-24 00-09-28" src="https://github.com/user-attachments/assets/0c9ab032-9ebd-4f77-85a7-cb9f84692b7d" />
+
     3.  **Lack of RUN format (Criticality 6.33):** Help text and a structured format were incorporated into the RUN input to prevent typing errors.
+  <img width="310" height="550" alt="Captura de pantalla de 2026-06-24 00-11-04" src="https://github.com/user-attachments/assets/41bb9fb4-cbb8-4eb0-b155-5f682c2cf70a" />
+
     4.  **Small notifications (Criticality 6.00):** The original notification pop-up was too small for the amount of medical information, so it was replaced by a complete and detailed view.
+  <img width="310" height="550" alt="Captura de pantalla de 2026-06-24 00-12-09" src="https://github.com/user-attachments/assets/71b87283-cb9d-41e4-ac81-4bfb58136014" />
+
     5.  **Long forms (Criticality 6.00):** The scheduling form was divided into separate steps (e.g., "Who is the appointment for?" on the first screen) to prevent user fatigue.
+  <img width="441" height="929" alt="Captura de pantalla de 2026-06-23 21-29-36" src="https://github.com/user-attachments/assets/a88b5d50-889e-46c0-9929-81870b9f11b0" />
 
 ### 8.3. Accessibility Themes
 Applying the guidelines covered in the class workshops, and considering that our target audience includes the elderly and people with reduced mobility, ArauCare integrates the following principles:
