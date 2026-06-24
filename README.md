@@ -110,8 +110,7 @@ Based on feedback received during the initial presentation from teaching assista
 <img width="310" height="550" alt="Home" src="https://github.com/user-attachments/assets/97c7eab6-3a50-419c-b2c5-a606f565c695" />
 
 *   **Scheduling Flow:** The appointment scheduling process was optimized by adjusting the specialist selection and the choice of times and dates to make it more intuitive.
-<img width="310" height="550<img width="432" height="320" alt="Captura de pantalla de 2026-06-24 00-02-51" src="https://github.com/user-attachments/assets/4fc3b65a-2f05-4f02-8feb-1d393517d0af" />
-" alt="Captura de pantalla de 2026-06-23 21-29-36" src="https://github.com/user-attachments/assets/7d441c36-2262-4c29-bfc7-92969ea86694" />
+<img width="310" height="550" alt="Captura de pantalla de 2026-06-24 00-12-09" src="https://github.com/user-attachments/assets/03a26edc-6a6f-498a-9497-c70a68e1edbc" />
 
 ### 8.2. Heuristic Evaluation & SUS
 the project was subjected to a cross-evaluation using Heuristic Inspection and the *System Usability Scale* (SUS) metric.
