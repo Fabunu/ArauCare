@@ -137,8 +137,8 @@ Applying the guidelines covered in the class workshops, and considering that our
 *   **Scalability Controls:** All main views include fixed `A- / A+` buttons so the patient can increase or decrease the font size according to their visual capacity.
 *   **Contrast and Visibility:** Contrast levels were increased (such as the improvement of the *Header* against the logo) and "Empty States" were used to visually guide the user.
 *   **Fitts's Law:** The conversion of text links to wide buttons (like the "Download PDF" button or the bottom navigation bar) ensures a large touch target area, ideal for users with reduced fine motor skills.
-
-https://www.figma.com/design/pW9yNVOjkjajGDWZj2HGPA/Wireframes-HD?node-id=0-1&t=CXbJRbCNbrUvAqMV-1
+wireframe pdf: Documentation/wireframes updated.pdf
+figma: https://www.figma.com/design/pW9yNVOjkjajGDWZj2HGPA/Wireframes-HD?node-id=0-1&t=CXbJRbCNbrUvAqMV-1
 
 
 
