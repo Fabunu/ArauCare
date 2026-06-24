@@ -116,20 +116,21 @@ Based on feedback received during the initial presentation from teaching assista
 the project was subjected to a cross-evaluation using Heuristic Inspection and the *System Usability Scale* (SUS) metric.
 *   **SUS Results:** The system obtained a global score of **61.25 (Marginally Acceptable)**, which allowed us to identify key frictions and iterate quickly.
 *   **Top 5 Critical Problems Resolved:**
-    1.  **Lack of feedback when scheduling (Criticality 7.66):** A success confirmation pop-up was added when the user schedules an appointment or updates their data, preventing uncertainty.
+
+1. **Lack of feedback when scheduling (Criticality 7.66):** A success confirmation pop-up was added when the user schedules an appointment or updates their data, preventing uncertainty.
   <img width="441" height="340" alt="Captura de pantalla de 2026-06-24 00-02-00" src="https://github.com/user-attachments/assets/9ebcdc22-eb96-42bb-830e-a215c0186893" />
   <img width="432" height="320" alt="Captura de pantalla de 2026-06-24 00-02-51" src="https://github.com/user-attachments/assets/175e15bc-0332-4c31-99d8-3f126b497a8e" />
 
-    2.  **No logo on login (Criticality 7.00):** The ArauCare logo was added to the login screen so the user always knows which application they are in.
+2. **No logo on login (Criticality 7.00):** The ArauCare logo was added to the login screen so the user always knows which application they are in.
   <img width="310" height="550" alt="Captura de pantalla de 2026-06-24 00-09-28" src="https://github.com/user-attachments/assets/0c9ab032-9ebd-4f77-85a7-cb9f84692b7d" />
 
-    3.  **Lack of RUN format (Criticality 6.33):** Help text and a structured format were incorporated into the RUN input to prevent typing errors.
+3. **Lack of RUN format (Criticality 6.33):** Help text and a structured format were incorporated into the RUN input to prevent typing errors.
   <img width="310" height="550" alt="Captura de pantalla de 2026-06-24 00-11-04" src="https://github.com/user-attachments/assets/41bb9fb4-cbb8-4eb0-b155-5f682c2cf70a" />
 
-    4.  **Small notifications (Criticality 6.00):** The original notification pop-up was too small for the amount of medical information, so it was replaced by a complete and detailed view.
+4.  *Small notifications (Criticality 6.00):** The original notification pop-up was too small for the amount of medical information, so it was replaced by a complete and detailed view.
   <img width="310" height="550" alt="Captura de pantalla de 2026-06-24 00-12-09" src="https://github.com/user-attachments/assets/71b87283-cb9d-41e4-ac81-4bfb58136014" />
 
-    5.  **Long forms (Criticality 6.00):** The scheduling form was divided into separate steps (e.g., "Who is the appointment for?" on the first screen) to prevent user fatigue.
+5. **Long forms (Criticality 6.00):** The scheduling form was divided into separate steps (e.g., "Who is the appointment for?" on the first screen) to prevent user fatigue.
   <img width="441" height="929" alt="Captura de pantalla de 2026-06-23 21-29-36" src="https://github.com/user-attachments/assets/a88b5d50-889e-46c0-9929-81870b9f11b0" />
 
 ### 8.3. Accessibility Themes
@@ -137,7 +138,7 @@ Applying the guidelines covered in the class workshops, and considering that our
 *   **Scalability Controls:** All main views include fixed `A- / A+` buttons so the patient can increase or decrease the font size according to their visual capacity.
 *   **Contrast and Visibility:** Contrast levels were increased (such as the improvement of the *Header* against the logo) and "Empty States" were used to visually guide the user.
 *   **Fitts's Law:** The conversion of text links to wide buttons (like the "Download PDF" button or the bottom navigation bar) ensures a large touch target area, ideal for users with reduced fine motor skills.
-*   
+  
 figma: https://www.figma.com/design/pW9yNVOjkjajGDWZj2HGPA/Wireframes-HD?node-id=0-1&t=CXbJRbCNbrUvAqMV-1
 
 
