@@ -90,7 +90,31 @@ In the footer, the field indicating the user's associated CESFAM location was re
 ### 7.2 High Definition Interfaces
 <img width="440" height="956" alt="Inicio sesión" src="https://github.com/user-attachments/assets/a2d4e247-0e93-44ea-addf-566cb8f9dd45" /> <img width="440" height="1070" alt="Home" src="https://github.com/user-attachments/assets/5f33930b-5eff-4742-85ba-8d66c8e516d6" /> <img width="440" height="1419" alt="Mis Datos" src="https://github.com/user-attachments/assets/400bab7d-6d90-40b8-99ae-2a5586dbcb53" /> <img width="440" height="1154" alt="Cuidador" src="https://github.com/user-attachments/assets/d3d4f2f5-5c90-4546-8788-e11e4d07bbb1" /> <img width="440" height="956" alt="Farmacia" src="https://github.com/user-attachments/assets/8d5f66a7-684c-442d-b68b-544ddbe0251c" /> <img width="440" height="956" alt="Mis recetas" src="https://github.com/user-attachments/assets/35dbf6bb-8952-434f-8b35-314db6daca9e" /> <img width="440" height="956" alt="Derivaciones" src="https://github.com/user-attachments/assets/6122faee-6002-4699-96a1-566669cecbc8" /> <img width="440" height="1013" alt="Mis Examenes" src="https://github.com/user-attachments/assets/f7d91ef4-abd6-40e7-9d32-8042b8524fe4" /> <img width="440" height="956" alt="Horas y Atenciones" src="https://github.com/user-attachments/assets/32a570cf-6e3a-4efd-bffc-79c6acd065fc" /> <img width="440" height="1452" alt="Agendar una Hora" src="https://github.com/user-attachments/assets/11a36efa-b4ee-43d3-a29b-889337a857b3" /> <img width="440" height="956" alt="Movilidad" src="https://github.com/user-attachments/assets/4d638202-5183-40ea-8015-b2c6261dc187" />
 
-https://www.figma.com/design/pW9yNVOjkjajGDWZj2HGPA/Wireframes-HD?node-id=0-1&t=Gtvf2eft8P1myDaa-1
+## 8. Evaluation & Usability
+
+### 8.1. Feedback Implementation & Interface Refinement
+Based on feedback received during the initial presentation from teaching assistants, classmates, and the professor, the following changes were implemented to improve the high-definition design:
+*   **Complete UI Adjustment:** A complete adjustment of the interfaces was performed to make them look more polished, clean, and professional.
+*   **Actionable Elements:** The option to "Download PDF" for prescriptions and exams was changed from a simple text link to a prominent button, facilitating interaction.
+*   **Brand Contrast:** The color of the top *Header* was adjusted to generate greater contrast with the ArauCare institutional logo color.
+*   **News Redesign:** A modification was applied to the news section on the homepage so the carousel looks better and is more readable.
+*   **Scheduling Flow:** The appointment scheduling process was optimized by adjusting the specialist selection and the choice of times and dates to make it more intuitive.
+
+### 8.2. Heuristic Evaluation & SUS
+the project was subjected to a cross-evaluation using Heuristic Inspection and the *System Usability Scale* (SUS) metric.
+*   **SUS Results:** The system obtained a global score of **61.25 (Marginally Acceptable)**, which allowed us to identify key frictions and iterate quickly.
+*   **Top 5 Critical Problems Resolved:**
+    1.  **Lack of feedback when scheduling (Criticality 7.66):** A success confirmation pop-up was added when the user schedules an appointment or updates their data, preventing uncertainty.
+    2.  **No logo on login (Criticality 7.00):** The ArauCare logo was added to the login screen so the user always knows which application they are in.
+    3.  **Lack of RUN format (Criticality 6.33):** Help text and a structured format were incorporated into the RUN input to prevent typing errors.
+    4.  **Small notifications (Criticality 6.00):** The original notification pop-up was too small for the amount of medical information, so it was replaced by a complete and detailed view.
+    5.  **Long forms (Criticality 6.00):** The scheduling form was divided into separate steps (e.g., "Who is the appointment for?" on the first screen) to prevent user fatigue.
+
+### 8.3. Accessibility Themes
+Applying the guidelines covered in the class workshops, and considering that our target audience includes the elderly and people with reduced mobility, ArauCare integrates the following principles:
+*   **Scalability Controls:** All main views include fixed `A- / A+` buttons so the patient can increase or decrease the font size according to their visual capacity.
+*   **Contrast and Visibility:** Contrast levels were increased (such as the improvement of the *Header* against the logo) and "Empty States" were used to visually guide the user.
+*   **Fitts's Law:** The conversion of text links to wide buttons (like the "Download PDF" button or the bottom navigation bar) ensures a large touch target area, ideal for users with reduced fine motor skills.
 
 
 
